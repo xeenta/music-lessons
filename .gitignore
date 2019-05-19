@@ -1,0 +1,16 @@
+*.pdf
+*.ps
+*.png
+*.midi
+*.mid
+*.log
+*~
+*.md
+!README.md
+*.R
+*.csv
+.hg*
+LINKS
+.R*
+gauge/
+titles/
